@@ -1,0 +1,14 @@
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\bin\Debug\MaquinaDiscriminadoraWPF.exe.config
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\bin\Debug\MaquinaDiscriminadoraWPF.exe
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\bin\Debug\MaquinaDiscriminadoraWPF.pdb
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.csprojResolveAssemblyReference.cache
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MainWindow.g.cs
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\App.g.cs
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF_MarkupCompile.cache
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF_MarkupCompile.lref
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MainWindow.baml
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.g.resources
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.Properties.Resources.resources
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.csproj.GenerateResource.Cache
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.exe
+c:\users\abrah\onedrive\documents\visual studio 2015\Projects\MaquinaDiscriminadoraWPF\MaquinaDiscriminadoraWPF\obj\Debug\MaquinaDiscriminadoraWPF.pdb

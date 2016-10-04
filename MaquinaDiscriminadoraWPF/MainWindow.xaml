@@ -1,0 +1,18 @@
+﻿<Window x:Class="MaquinaDiscriminadoraWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MaquinaDiscriminadoraWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="input_Block" HorizontalAlignment="Left" Margin="10,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="259" Width="209"/>
+        <Label x:Name="label" Content="Input" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_LoadFile" Content="Load File" HorizontalAlignment="Left" Margin="225,98,0,0" VerticalAlignment="Top" Width="68" Height="37" Click="btn_LoadFile_Click"/>
+        <TextBlock x:Name="output_Box" HorizontalAlignment="Left" Margin="298,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="259" Width="209"/>
+        <Button x:Name="btn_Translate" Content="-&gt;" HorizontalAlignment="Left" Margin="225,169,0,0" VerticalAlignment="Top" Width="68" Height="37" Click="btn_Translate_Click"/>
+        <Label x:Name="label_Copy" Content="Output" HorizontalAlignment="Left" Margin="298,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
